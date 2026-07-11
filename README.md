@@ -61,6 +61,5 @@ Follow these 3 simple steps:
     git clone https://github.com/Sowmya08-p/HireScan-AI-Resume-Scanner
     cd HireScan-AI-Resume-Scanner
 
-![ATS Score Demo](Demo.png)
-
 **Sample Output:**
+![ATS Score Demo](Demo.png)
